@@ -1,0 +1,108 @@
+.entete{
+  display: flex;
+  color:black;
+  justify-content: flex-end;
+  padding: 8px;
+}
+
+.entete1{
+  margin-right: 40px;
+}
+.entete2{
+  margin-right: 40px;
+}
+
+.entete3{
+  margin-right: 40px;
+  margin-bottom: 20px;
+}
+
+.milieu{
+    margin: auto;
+    justify-content: center;
+    margin-top:100px;
+}
+
+.logoGoogle{
+  display: flex;
+  justify-content: center;  
+}
+
+.bouton{
+  justify-content: center; 
+  margin-left: 100px; 
+}
+
+.textesouslogo{
+  display:flex;
+  clear:both;
+  color:rgb(68,68,68);
+  justify-content: center;
+}
+
+
+.Rechercherandom{
+  margin-left: 40px;
+  border: 1.5px   #f2f2f2 solid;
+  background-color: #f2f2f2;
+  border-radius: 4px;
+  padding:10px 10px;
+}
+
+
+
+.Recherche{
+  margin-left: 40px;
+  border: 1.5px   #f2f2f2 solid;
+  background-color: #f2f2f2;
+  border-radius: 4px;
+  padding:10px 10px;
+}
+
+
+
+
+.footer{
+
+  background-color: rgb(237, 237, 237);
+  margin: 400px 0px 0px 0px; 
+  padding: 20px 20px 20px 20px;
+}
+
+
+.footer1{
+  font-size: 0.7em;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 2px 30px 0px 20px; 
+  display: flex;
+  color:rgb(68, 68, 68);
+  justify-content: space-between;
+  text-decoration:none;
+}
+
+.footer2{
+  font-size: 0.6em;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 2px 0px 0px 20px; 
+  display: flex;
+  color:rgb(68, 68, 68);
+  justify-content: space-between;
+  text-decoration:none;
+}
+
+
+
+
+
+a{
+  text-decoration:none;
+  color:rgb(68, 68, 68);
+}
+
+a:visited{
+  text-decoration:none;
+}
+
+a:hover{
+  text-decoration:underline;
+}
